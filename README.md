@@ -13,4 +13,4 @@ A simple expense tracker built with vanilla JavaScript.
 `map`, `filter`, `reduce`, `Object.entries`, spread, destructuring, event delegation
 
 ## Run it
-Open the folder in VS Code and use the Live Server extension.
+Open the folder in VS Code and use the Live Server extension."
